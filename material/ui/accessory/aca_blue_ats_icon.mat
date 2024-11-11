@@ -1,0 +1,5 @@
+material: "ui"
+{
+	texture: "Driving Academy (blue) Icon.tobj"
+	texture_name: "texture"
+}

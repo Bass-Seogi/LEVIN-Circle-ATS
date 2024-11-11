@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_paint_job_data: aca_wh_ats.scs.box.paint_job
+{
+@include "aca_wh_ats_settings.sui"
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/Driving Academy (white)/SCS Box Trailer/Base Colour.tobj"
+}
+}
